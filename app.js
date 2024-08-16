@@ -1,4 +1,4 @@
-const Base_URL = "https://opentdb.com/api.php?amount=10&category=19&type=multiple";
+const Base_URL = "https://opentdb.com/api.php?amount=10&category=9&type=multiple";
 
 const question = document.querySelector("#question");
 const option1 = document.querySelector("#option1");
